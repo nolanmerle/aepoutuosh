@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eetoosoh.markhneedham.com/sitemap.xml

